@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\novik\\RiderProjects\\logger\\logger\\logger.csproj": {}
+    "C:\\Users\\novik\\OneDrive\\Документы\\GitHub\\logger\\logger\\logger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\novik\\RiderProjects\\logger\\logger\\logger.csproj": {
+    "C:\\Users\\novik\\OneDrive\\Документы\\GitHub\\logger\\logger\\logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\novik\\RiderProjects\\logger\\logger\\logger.csproj",
+        "projectUniqueName": "C:\\Users\\novik\\OneDrive\\Документы\\GitHub\\logger\\logger\\logger.csproj",
         "projectName": "logger",
-        "projectPath": "C:\\Users\\novik\\RiderProjects\\logger\\logger\\logger.csproj",
+        "projectPath": "C:\\Users\\novik\\OneDrive\\Документы\\GitHub\\logger\\logger\\logger.csproj",
         "packagesPath": "C:\\Users\\novik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\novik\\RiderProjects\\logger\\logger\\obj\\",
+        "outputPath": "C:\\Users\\novik\\OneDrive\\Документы\\GitHub\\logger\\logger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\novik\\AppData\\Roaming\\NuGet\\NuGet.Config",

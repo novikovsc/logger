@@ -30,7 +30,7 @@ namespace logger
             CreateDir();
             using (StreamWriter sw = new StreamWriter(path + "\\" + "fatal.txt", true))
             {
-                sw.WriteLine(DateTime.Now.ToString() + " " + message + e.Message);
+                sw.WriteLine(DateTime.Now.ToString() + " " + message + " " + e.Message);
             }
         }
 
@@ -57,7 +57,7 @@ namespace logger
             CreateDir();
             using (StreamWriter sw = new StreamWriter(path + "\\" + "error.txt", true))
             {
-                sw.WriteLine(DateTime.Now.ToString() + " " + message + e.Message);
+                sw.WriteLine(DateTime.Now.ToString() + " " + message + " " + e.Message);
             }
         }
 
